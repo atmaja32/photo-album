@@ -4,7 +4,7 @@ import boto3
 import datetime
 import requests
 
-
+# This is for DEMO
 print('Loading function')
 
 s3 = boto3.client('s3')
